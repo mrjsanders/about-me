@@ -16,7 +16,7 @@ classifiers = [
 ]
 description = "Professional Python starter project using uv and a src layout"
 license = "MIT"
-name = "analytics-project" # PACKAGE name (matches src folder except with dashes)
+name = "about-me" # PACKAGE name (matches src folder except with dashes)
 readme = "README.md"
 requires-python = ">=3.12"
 version = "0.0.1"
