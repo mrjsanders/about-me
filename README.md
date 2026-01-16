@@ -167,4 +167,6 @@ Before starting a new session, remember to do a `git pull` and keep your tools u
 
 Each time forward progress is made, remember to git add-commit-push.
 
+1-15 >> Making progress but it is slow going.  What have I gotten myself into?
+
 
